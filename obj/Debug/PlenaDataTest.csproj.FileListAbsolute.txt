@@ -1,0 +1,9 @@
+C:\PlenaDataTest\bin\Debug\PlenaDataTest.exe.config
+C:\PlenaDataTest\bin\Debug\PlenaDataTest.exe
+C:\PlenaDataTest\bin\Debug\PlenaDataTest.pdb
+C:\PlenaDataTest\obj\Debug\PlenaDataTest.Properties.Resources.resources
+C:\PlenaDataTest\obj\Debug\PlenaDataTest.csproj.GenerateResource.cache
+C:\PlenaDataTest\obj\Debug\PlenaDataTest.csproj.CoreCompileInputs.cache
+C:\PlenaDataTest\obj\Debug\PlenaDataTest.exe
+C:\PlenaDataTest\obj\Debug\PlenaDataTest.pdb
+C:\PlenaDataTest\obj\Debug\PlenaDataTest.RewriteString.resources
